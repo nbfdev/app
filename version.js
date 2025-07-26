@@ -1,4 +1,1 @@
-{
-  "version": "1.1.0",
-  "updateUrl": "https://your-update-url.com"
-}
+window.LATEST_APP_VERSION = "1.1.0"; 
