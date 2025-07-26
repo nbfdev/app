@@ -1,4 +1,4 @@
 window.NBF_ANNOUNCEMENT = {
-  title: "",
-  message: "",
+  title: "asdasd",
+  message: "asdasd",
 };
