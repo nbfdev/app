@@ -1,4 +1,4 @@
-window.NBF_ANNOUNCEMENT = {
-  title: "asdasd",
-  message: "asdasd",
-};
+{
+  "title": "ประกาศสำคัญ",
+  "message": "ยินดีต้อนรับสู่แอปพลิเคชัน"
+}
